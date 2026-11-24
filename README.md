@@ -12,6 +12,14 @@ Its Human" bounty.
 laptop keyboard), the voice is unmistakably feline — the human is measured
 by cat standards — and the sting lands in the last two words.
 
+## Why it should make the judge laugh
+
+The joke turns on a power reversal: the cat is not apologising for sitting
+on the keyboard, it is *helping*, and it reframes the human's complaint as
+a performance review. "Sabotage" vs "management" is the whole review in
+two words — the cat outranks the human in its own house, and says so
+deadpan, exactly how a real one-star review reads.
+
 ## Run it
 
 ```sh
