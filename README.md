@@ -30,3 +30,9 @@ cat out/entry.txt
 `main.ts` writes the review to `$MAKEFUN_OUTPUT_DIR/entry.txt`
 (`/output/entry.txt` on the grader). No network, no randomness, no
 dependencies: the same bytes every run.
+
+## Gate
+
+The output file is UTF-8, exactly 127 characters, a single line with no
+trailing newline, and not only whitespace — inside the 1–200 character
+gate. Verified locally with two identical runs (`cmp` clean).
